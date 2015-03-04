@@ -4,7 +4,7 @@ These browser extensions (or add ons) append the current url based on a pre defi
 
 The appendage is preceded by a ? when a ? is not present in the current url string.
 
-IF a ? is present an & is used.
+If a ? is present an & is used.
 
 This occurs before the DOM loads.
 
