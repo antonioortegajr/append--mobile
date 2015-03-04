@@ -1,0 +1,19 @@
+{
+  "name": "Append url",
+  "version": "1.0",
+  "description": "When enabled auto appends '?mobile' to any url based on the url string",
+  "background": { "scripts": ["background.js"] },
+  "page_action" :
+  {
+    "default_icon" : "icon-19.png",
+    "default_title" : "Append?mobile"
+  },
+  "permissions" : [
+    "tabs"
+  ],
+  "icons" : {
+    "48" : "icon-48.png",
+    "128" : "icon-128.png"
+  },
+  "manifest_version": 2
+}
