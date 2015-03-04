@@ -1,6 +1,6 @@
 READ ME
 
-These browser extension (or add ons) append the current url based on a pre defined portion of the url string being present. Then also pre defined appendage is appended and run.
+These browser extensions (or add ons) append the current url based on a pre defined portion of the url string being present. Then also pre defined appendage is appended and run.
 
 The appendage is preceded by a ? when a ? is not present in the current url string.
 
