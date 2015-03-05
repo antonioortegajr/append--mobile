@@ -11,3 +11,7 @@ This occurs before the DOM loads.
 Built for Chrome and Firefox
 
 Mobile is used as the appendage in this example.
+
+The Chrome extension I am currently using. This also worked in the nerwer chromium Opera.
+
+The firefox version did work last I used which was some time ago as I prefer chrome.
